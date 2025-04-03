@@ -40,6 +40,12 @@
 ### 📈 GitHub Stats
 
 <a href="https://github.com/Martin-YLX">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-YLX&layout=compact&hide_border=true" />
+</a>
+
+<br/>
+
+<a href="https://github.com/Martin-YLX">
   <img src="https://github-readme-stats.vercel.app/api?username=Martin-YLX&show_icons=true&theme=default&hide_border=true" alt="Martin's GitHub stats" />
 </a>
 
@@ -49,8 +55,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Martin-YLX&theme=default&hide_border=true" />
 </a>
 
-<br/>
 
-<a href="https://github.com/Martin-YLX">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-YLX&layout=compact&hide_border=true" />
-</a>
+
+
