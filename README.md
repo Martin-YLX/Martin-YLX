@@ -9,7 +9,7 @@
 
 - 🏫 Currently pursuing a degree in **Computer Science**
 - 🌱 Exploring **Model Optimization and real-world AI applications**
-- 🧠 Currently diving into **LLMs, CV, and edge deployment**
+- 🧠 Currently diving into **LLMs, CV, VLN, and edge deployment**
 - 🔭 Learning **Deep Learning frameworks** like PyTorch and TensorFlow
 - ✉️ Email me: [martin_ylx@outlook.com](mailto:martin_ylx@outlook.com)
 
