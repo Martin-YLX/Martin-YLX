@@ -3,14 +3,9 @@
   , I'm Martin-YLX
 </h1>
 
----
 
 - 🏫 Currently pursuing a degree in **Computer Science**
 - ✉️ Email me: [martin_ylx@outlook.com](mailto:martin_ylx@outlook.com)
-
----
-
-### 📈 GitHub Stats
 
 <a href="https://github.com/Martin-YLX">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-YLX&layout=compact&hide_border=true" />
