@@ -2,8 +2,6 @@
   Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" style="vertical-align: middle;" />
   , I'm Martin-YLX
 </h1>
-<h3 align="center">A computer science student exploring the exciting fields of</h3>
-<h3 align="center">Computer Vision (CV), Machine Learning (ML), and Deep Learning (DL)</h3>
 
 ---
 
